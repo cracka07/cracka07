@@ -5,6 +5,9 @@
 
 ![github](https://user-images.githubusercontent.com/39442992/176988948-80d45306-35dc-4994-960a-1d2399f79cc8.png)
 
+###  🌍 Me pueden encontrar en linkedin en el siguiente link
+https://www.linkedin.com/in/mariano-ferrer/
+
 
 <!--
 **cracka07/cracka07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
