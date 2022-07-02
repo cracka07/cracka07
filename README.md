@@ -1,4 +1,11 @@
-### Hi there 👋
+## Muy buenas gente. Bienvenido a mi perfil👋👋👋⭐
+
+
+
+
+![Full Stack Developer](https://user-images.githubusercontent.com/39442992/176988537-f800ce0b-6660-4aee-a2ea-880666819765.png)
+
+
 
 <!--
 **cracka07/cracka07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
