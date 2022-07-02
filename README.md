@@ -3,8 +3,7 @@
 
 
 
-![Full Stack Developer (1)](https://user-images.githubusercontent.com/39442992/176988771-3e95cbd1-3c52-4713-a264-fac70d3c7bda.png)
-
+![github](https://user-images.githubusercontent.com/39442992/176988948-80d45306-35dc-4994-960a-1d2399f79cc8.png)
 
 
 <!--
