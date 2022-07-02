@@ -1,4 +1,12 @@
-## Muy buenas gente. Bienvenido a mi perfil👋👋👋⭐
+## Muy buenas gente. Quiero darles la bienvenida a mi perfil 👋👋👋⭐
+
+### Les cuento en forma resumida quien soy. 
+### Soy un Full Stack Developer cuya formación la realicé en henry. Me considero una persona autotidacta con experiencia comprobable en proyectos realizados destacandome en varias soft skill como son:
+### Trabajo en equipo.
+### Inteligencia Emocional.
+### Actitud proactiva.
+### Comunicación.
+### Escucha Activa.
 
 
 
