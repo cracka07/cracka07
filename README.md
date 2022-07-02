@@ -5,21 +5,12 @@
 
 ![github](https://user-images.githubusercontent.com/39442992/176988948-80d45306-35dc-4994-960a-1d2399f79cc8.png)
 
-###  🌍 Me pueden encontrar en linkedin en el siguiente link
+###🌍 Me pueden encontrar en linkedin en el siguiente link
 ### https://www.linkedin.com/in/mariano-ferrer/
 
+###⚒️ Mis proyectos principales
 
-<!--
-**cracka07/cracka07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Food's Universe
+## Countries App
+## Breaking Bad
+## ToDo List
