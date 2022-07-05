@@ -25,10 +25,12 @@
 
 ## Food's Universe --- https://food-fast-client.vercel.app/
 ![foto food universe](https://user-images.githubusercontent.com/39442992/177376450-eb9a15fd-b7f9-4ea6-8856-6d4476892436.png)
-![COUNTRIES-APP](https://user-images.githubusercontent.com/39442992/177383226-fb5b9dd3-69e2-469b-85bf-4598ff63a64d.png)
 
 
 ## Countries App  --- https://github.com/cracka07/Proyecto-Individual-Henry-Countries
+
+![COUNTRIES-APP](https://user-images.githubusercontent.com/39442992/177385081-0d246114-dc35-47b8-8cbb-2704fc6f4c43.png)
+
 
 ## Breaking Bad  --- https://cracka07.github.io/Breaking-Bad-React-Redux/
 ![BREAKING BAD GITHUB](https://user-images.githubusercontent.com/39442992/177370642-5c06a549-02b5-452f-a352-aef5e50942c3.png)
