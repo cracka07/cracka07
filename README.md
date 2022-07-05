@@ -19,7 +19,7 @@
 
 
 ### 🌍 Contactame!!!!!
-### <a href="https://www.linkedin.com/in/mariano-ferrer/" target="_blank"> ![linkedin modificado](https://user-images.githubusercontent.com/39442992/177364870-06b922cc-18b4-4b18-8bfb-de78be620cbd.png)</a><a  href="https://www.linkedin.com/in/mariano-ferrer/" target="_blank">  ![correo ya](https://user-images.githubusercontent.com/39442992/177365812-32cc424c-1bf1-4886-a9e8-6594d7be6cc9.png)
+### <a href="https://www.linkedin.com/in/mariano-ferrer/" target="_blank"> ![linkedin modificado](https://user-images.githubusercontent.com/39442992/177364870-06b922cc-18b4-4b18-8bfb-de78be620cbd.png)</a><a  href="mariano_fferrer@hotmail.com" target="_blank">  ![correo ya](https://user-images.githubusercontent.com/39442992/177365812-32cc424c-1bf1-4886-a9e8-6594d7be6cc9.png)
    </a>
 
 
