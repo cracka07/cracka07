@@ -19,7 +19,8 @@
 
 
 ### 🌍 Contactame!!!!!
-### <a width="500" height="600" href="https://www.linkedin.com/in/mariano-ferrer/" target="_blank"> ![linkedin](https://user-images.githubusercontent.com/39442992/177363879-112da560-b9ef-4560-a4ff-eedc4bfde73f.png)
+### <a  href="https://www.linkedin.com/in/mariano-ferrer/" target="_blank"> ![linkedin modificado](https://user-images.githubusercontent.com/39442992/177364870-06b922cc-18b4-4b18-8bfb-de78be620cbd.png)
+
  </a>
 
 
