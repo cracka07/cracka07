@@ -11,7 +11,7 @@
 ### Comunicación.
 ### Escucha Activa.
 
-##⭐⭐ Tecnologías 
+## ⭐⭐ Tecnologías 
 
 ###Frontend Developor: ReactJs. Redux. Sass. Style Component. Css puro. JavaScript.
 ###Backend Developer: NodeJs. Express.
