@@ -2,7 +2,7 @@
 
 
 
-![Full Stack Developer (2)](https://user-images.githubusercontent.com/39442992/177270076-3bc8c578-c9cd-48ac-9152-04e36b38eedb.png)
+![Full Stack Developer (3)](https://user-images.githubusercontent.com/39442992/177271264-65aade97-d29c-416d-8c38-f2ed71f3847b.png)
 
 
 
