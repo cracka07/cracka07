@@ -1,9 +1,7 @@
 
 
 
-
-![Full Stack Developer (3)](https://user-images.githubusercontent.com/39442992/177271264-65aade97-d29c-416d-8c38-f2ed71f3847b.png)
-
+![hola soy mariano](https://user-images.githubusercontent.com/39442992/177273607-d4a68e91-d293-490c-9ce6-e8d3046e0556.png)
 
 
 ### Les cuento en forma resumida quien soy. 
