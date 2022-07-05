@@ -11,7 +11,7 @@
 ### Comunicación.
 ### Escucha Activa.
 
-⭐⭐ Tecnologías 
+##⭐⭐ Tecnologías 
 
 ###Frontend Developor: ReactJs. Redux. Sass. Style Component. Css puro. JavaScript.
 ###Backend Developer: NodeJs. Express.
@@ -36,7 +36,7 @@
 ![todo list](https://user-images.githubusercontent.com/39442992/177375623-ce8cfccc-cf67-4a30-a619-4020dbf103eb.png)
 
 
-### 🌍 Contactame!!!!!
+## 🌍 Contactame!!!!!
 ### <a href="https://www.linkedin.com/in/mariano-ferrer/" target="_blank"> ![linkedin modificado](https://user-images.githubusercontent.com/39442992/177364870-06b922cc-18b4-4b18-8bfb-de78be620cbd.png)</a><a  href="https://wa.me/543516148935" target="_blank">![WhatsApp svg](https://user-images.githubusercontent.com/39442992/177369855-f1b54538-f14f-44eb-9b4f-c00ef15d7361.png)
   </a>
 
