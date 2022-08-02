@@ -23,11 +23,11 @@
 
 ### ⚒️ Mis proyectos principales
 
-## Food's Universe --- https://food-fast-client.vercel.app/
+## Food's Universe --- https://proyecto-grupal-food-s-universe.vercel.app/
 ![foto food universe](https://user-images.githubusercontent.com/39442992/177376450-eb9a15fd-b7f9-4ea6-8856-6d4476892436.png)
 
 
-## Countries App  --- https://github.com/cracka07/Proyecto-Individual-Henry-Countries
+## Countries App  --- https://proyecto-individual-henry-countries.vercel.app/
 
 ![COUNTRIES-APP](https://user-images.githubusercontent.com/39442992/177385081-0d246114-dc35-47b8-8cbb-2704fc6f4c43.png)
 
