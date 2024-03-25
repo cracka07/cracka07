@@ -4,22 +4,26 @@
 ![hola soy mariano](https://user-images.githubusercontent.com/39442992/177273607-d4a68e91-d293-490c-9ce6-e8d3046e0556.png)
 
 
-### Soy un Full Stack Developer cuya formación realizada en henry me permitió adquirir muchos conocimientos en distintos lenguajes y la habilidad de aprender lenguajes nuevos. Me considero una persona autotidacta con experiencia comprobable en proyectos realizados en Henry, destacándome en varias soft skills como son:
-### Trabajo en equipo.
-### Inteligencia Emocional.
-### Actitud proactiva.
-### Comunicación.
-### Actitud Positiva.
+### Hello! I am a Full Stack Developer with experience focused on Python. My training at Henry has given me a solid foundation of knowledge in a variety of programming languages ​​and the ability to quickly learn new languages ​​and technologies.
 
-## ⭐⭐ Tecnologías 
+I consider myself a self-taught person and passionate about problem solving. During my time at Henry, I have had the opportunity to work on various projects that have expanded my experience and technical skills.
 
-### ReactJs, Java, Spring boot,  JavaScript, NodeJs , MongoDB, PostgreSQL, MySQL,SQL.
+In addition to my technical experience, I excel in soft skills such as teamwork. I enjoy collaborating with other professionals to find innovative and efficient solutions. I firmly believe that teamwork is essential to the success of any project and I am committed to contributing positively in any collaborative environment.
+### Teamwork.
+### Emotional Intelligence.
+### Proactive attitude.
+### Communication.
+### Positive attitude.
+
+## ⭐⭐ Technologies
+
+### ReactJs, Java, Spring boot, JavaScript, NodeJs, MongoDB, PostgreSQL, MySQL, SQL.
 
 
 
 
 
-### ⚒️ Mis proyectos principales
+### ⚒️ My main projects
 
 ## Food's Universe --- https://proyecto-grupal-food-s-universe.vercel.app/
 ![foto food universe](https://user-images.githubusercontent.com/39442992/177376450-eb9a15fd-b7f9-4ea6-8856-6d4476892436.png)
